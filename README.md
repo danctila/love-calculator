@@ -12,7 +12,7 @@ On submission, the percentage displayed below Result: fluctuates up and down mul
 
 ## Installation
 
-Close lovecalculator.py into the development environment. You will need python installed globally on your machine.
+Clone lovecalculator.py into the development environment. You will need python installed globally on your machine.
 
 To Start Program Run:
 ``
